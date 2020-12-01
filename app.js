@@ -1,5 +1,5 @@
 const month = 3;
-const day = 20;
+const day = 12;
 
 if (month == 1) {
     if (day <= 21) {
